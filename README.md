@@ -1,10 +1,9 @@
 
-- 👋 Hi, I'm Akshay Mohabey
-- 🌱 Pursuing Data Science with a focus on Agent-Based Modeling
-- 💡 Driven by a passion for computational simulations and their applications in understanding complex systems.
-- 🤝 Open to Collaborations – actively seeking to contribute to and learn from projects in agent-based modeling.
-- 📫 Reach out at: akshay.mohabey@outlook.com
-
+- 👋 Hello, I'm Akshay Mohabey
+- 🌱 Currently Enhancing My Expertise in Data Science
+- 🎓 Management Graduate with a Focus on Agent-Based Modeling (ABM) – leveraging ABM to solve complex business challenges and optimize energy systems in building environments.
+- 🤝 Open to Collaborations – particularly in projects centered around agent-based modeling applications.
+- 📫 Contact: Reach me at akshay.mohabey@outlook.com for collaboration opportunities.
 <!--
 **akshaymohabey/akshaymohabey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
